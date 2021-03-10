@@ -5,7 +5,7 @@ title: "Ingka Cyber Security Taxonomy"
 # with your folder name, otherwise leave it empty
 baseurl: "/git-wiki-skeleton"
 # (string) Description of your wiki
-description: "A framework for decribing and classifying terms used in the Ingka cyber security domain"
+description: "A framework for dedcribing and classifying terms used in the Ingka cyber security domain"
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
